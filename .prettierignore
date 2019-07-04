@@ -2,5 +2,5 @@ package-lock.json
 .next
 node_modules/
 
-.circleci/
-README.md
+# .circleci/
+# README.md
